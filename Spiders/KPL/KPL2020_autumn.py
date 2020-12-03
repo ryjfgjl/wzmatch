@@ -2,7 +2,7 @@
 
 import requests
 from bs4 import BeautifulSoup
-from Spiders.sql import Sql
+from sql import Sql
 
 
 Sql = Sql()
